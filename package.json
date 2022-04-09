@@ -36,7 +36,7 @@
     "jwt-simple": "0.5.6",
     "lodash": "4.17.11",
     "mailgun-js": "0.17.0",
-    "moment": "2.20.1",
+    "moment": "2.29.2",
     "mongoose": "5.6.0",
     "mongoose-geojson-schema": "2.1.2",
     "mustache": "2.3.0",
